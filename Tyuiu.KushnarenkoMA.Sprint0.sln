@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KushnarenkoMA.Sprint0.Task0.V0", "Tyuiu.KushnarenkoMA.Sprint0.Task0.V0\Tyuiu.KushnarenkoMA.Sprint0.Task0.V0.csproj", "{33A452E9-4A75-4AC8-A3AA-953528D9B33A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{64B0DB7F-8FF2-4C6F-8B00-61C83C28A72B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KushnarenkoMA.Sprint0.Task1.V0", "Tyuiu.KushnarenkoMA.Sprint0.Task1.V0\Tyuiu.KushnarenkoMA.Sprint0.Task1.V0.csproj", "{C0227048-62F1-4A3A-BA25-BA80B1193D1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{33A452E9-4A75-4AC8-A3AA-953528D9B33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33A452E9-4A75-4AC8-A3AA-953528D9B33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33A452E9-4A75-4AC8-A3AA-953528D9B33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0227048-62F1-4A3A-BA25-BA80B1193D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0227048-62F1-4A3A-BA25-BA80B1193D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0227048-62F1-4A3A-BA25-BA80B1193D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0227048-62F1-4A3A-BA25-BA80B1193D1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{33A452E9-4A75-4AC8-A3AA-953528D9B33A} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{C0227048-62F1-4A3A-BA25-BA80B1193D1F} = {64B0DB7F-8FF2-4C6F-8B00-61C83C28A72B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B7C713A4-AF70-4B60-887C-2F08E5E7332E}
